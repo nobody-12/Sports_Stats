@@ -18,3 +18,4 @@ with urlopen('https://projects.fivethirtyeight.com/nfl-api/2017/nfl_games_2017.c
             else: 
                 print(y[0:2])
                 print(y[3:5])
+               
